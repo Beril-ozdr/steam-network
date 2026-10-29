@@ -1,0 +1,4 @@
+﻿ag,dugum,kenar,yogunluk,bilesen_sayisi,en_buyuk_bilesen,izole_dugum,ort_kumelenme
+oyun-etiket (bipartite),2346,29650,0.04285,1,2346,0,
+etiket-etiket,346,22500,0.37698,1,346,0,0.6989
+oyun-oyun (benzerlik>=0.5),2000,53315,0.02667,39,1958,34,0.5267
